@@ -33,11 +33,11 @@ Start the server
   npm run start
 ```
 
-#Edit Yourself
+## Edit Yourself
 
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-ts-dd422u)
 
 
-** Thanks, We are always happy to help you **
+**Thanks, We are always happy to help you**
 
 
